@@ -41,7 +41,7 @@ const Pokemon = (props) => {
                         <div className="pokemanContainer_details_info">
                             <div className="pokemanContainer_details_row">
                                 <p>
-                                    name: {pokemon.name}
+                                    Name: {pokemon.name}
                                 </p>
                                 <p>
                                     ID: {pokemon.id}
